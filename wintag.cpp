@@ -1,4 +1,5 @@
 /* TODO:
+ *      jump to desctop of the activating window
  *      per screen context
  *      root window change event handling (regrab keys)
  *      systray icon
